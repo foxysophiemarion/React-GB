@@ -22,7 +22,7 @@
 
 a:focus,
 a:active {
-	/* outline: none;*/
+	outline: none;
 }
 
 html,
